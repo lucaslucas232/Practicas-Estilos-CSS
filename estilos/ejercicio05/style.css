@@ -1,3 +1,6 @@
 /* 
 * Aplicar color azul solo al hijo directo (<p> dentro de <div>, no el nieto). 
 */
+div > p {
+    color: blue;
+}

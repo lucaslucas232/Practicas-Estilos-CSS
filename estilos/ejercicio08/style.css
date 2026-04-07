@@ -1,3 +1,10 @@
 /* 
 * Cambiar el borde de los inputs de tipo "password" a rojo.
 */
+input {
+    margin-bottom: 40px;
+}
+
+input[type="password"] {
+    border-color: red;
+}
