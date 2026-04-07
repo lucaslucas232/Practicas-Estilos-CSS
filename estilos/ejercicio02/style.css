@@ -2,3 +2,7 @@
 * Hacer que todos los elementos con clase .destacado tengan fondo
 * amarillo (background-color) y texto negrita (font-weight) 
 */
+.destacado {
+    background-color: yellow;
+    font-weight: bold;
+}

@@ -1,3 +1,7 @@
 /* 
 * Cambiar el color de todos los <p> a azul (blue) 
 */
+p {
+    color:blue;
+    font-size: 20px;
+}
